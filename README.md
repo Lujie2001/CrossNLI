@@ -34,5 +34,5 @@ Each row represents a single data instance with the following columns:
 ## Sheet: Variables
 Description: This sheet contains a list of Japanese lexical items that function as variables in the sentence templates. These variables may be used to dynamically generate or modify sentences in the Templates sheet, facilitating controlled experimentation or linguistic variation.
 
-  - variables_japanese: A list of Japanese words or phrases used as placeholders or substitution elements in template-based sentence generation.
+  - variables_japanese(chinese): A list of Japanese words or phrases used as placeholders or substitution elements in template-based sentence generation.
 
