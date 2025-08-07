@@ -36,3 +36,20 @@ Description: This sheet contains a list of Japanese lexical items that function 
 
   - variables_japanese(chinese): A list of Japanese words or phrases used as placeholders or substitution elements in template-based sentence generation.
 
+
+# Citation
+If you use this dataset and code in any published research, please cite the following paper: 
+@InProceedings{jie-2025-crossNLI,
+  author    = {Jie Lu, Du Jin and Hitomi Yanaka},
+  title     = {LLMs Struggle with NLI for Perfect Aspect: A Cross-Linguistic Study in Chinese and Japanese},
+  booktitle = {Proceedings of the 16th International Conference on Computational Semantics},
+  year      = {2025},
+}
+
+# Contact
+For questions and usage issues, please contact lujie2001yoshino@gmail.com.
+
+# License
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
