@@ -39,12 +39,16 @@ Description: This sheet contains a list of Japanese lexical items that function 
 
 # Citation
 If you use this dataset and code in any published research, please cite the following paper: 
+- Jie Lu, Du Jin, Hitomi Yanaka, LLMs Struggle with NLI for Perfect Aspect: A Cross-Linguistic Study in Chinese and Japanese, Proceedings of the 16th International Conference on Computational Semantics, 2025.
+
+<pre><code>```
 @InProceedings{jie-2025-crossNLI,
-  author    = {Jie Lu, Du Jin and Hitomi Yanaka},
+  author    = {Jie, Lu and Du, Jin and Hitomi, Yanaka},
   title     = {LLMs Struggle with NLI for Perfect Aspect: A Cross-Linguistic Study in Chinese and Japanese},
   booktitle = {Proceedings of the 16th International Conference on Computational Semantics},
   year      = {2025},
 }
+``` </code></pre>
 
 # Contact
 For questions and usage issues, please contact lujie2001yoshino@gmail.com.
